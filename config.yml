@@ -217,7 +217,6 @@ params:
 
 
   certifications:
-    # settings:
     #   useLess: true
     details:
     - certName: "CKA: Certified Kubernetes Administrator"
