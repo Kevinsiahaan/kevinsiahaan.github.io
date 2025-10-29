@@ -3,14 +3,14 @@ theme: "terminalcv"
 title: "Kevin Siahaan"
 
 params:
-  version: 'nigga'
+  version: 'v1'
   description: "Kevin Siahaan Personal Website"
   zoomLevel:
     scale: "1.5"
   prompt:
     core:
       text: "specialperson@kevinsiahaan"
-      color: 'red'
+      color: 'yellow'
       before: ''
       beforeColor: 'white'
       after: ':'
